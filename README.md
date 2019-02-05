@@ -1,2 +1,2 @@
 # Snakes_WallBreaker
-The modified version of the common Snake game and Wall Breaker game
+The modified version of the common Snake game and a Wall Breaker game
