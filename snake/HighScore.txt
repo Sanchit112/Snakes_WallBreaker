@@ -1,0 +1,4 @@
+Tetris:Sanchit:100
+Snake:Sanchit:100
+Flappy Birds:Sanchit:100
+Brick Breaker:Sanchit:100
